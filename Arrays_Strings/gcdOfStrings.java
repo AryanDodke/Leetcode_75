@@ -1,4 +1,4 @@
-class Solution {
+public class GcdOfStrings {
     public String gcdOfStrings(String str1, String str2) {
        int c = str1.length();
        int d = str2.length();
